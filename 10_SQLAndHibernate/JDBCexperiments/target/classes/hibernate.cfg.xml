@@ -1,0 +1,36 @@
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <!-- JDBC Database connection settings -->
+        <property name="connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <property name="connection.url">jdbc:mysql://82.209.211.129:3333/skillbox?serverTimezone=Europe/Moscow&amp;useSSL=false</property>
+        <property name="connection.username">root</property>
+        <property name="connection.password">testtest</property>
+
+        <property name="connection.characterEncoding">utf8</property>
+        <!-- JDBC connection pool settings ... using built-in test pool -->
+        <property name="connection.pool_size">10</property>
+        <!-- Select our SQL dialect -->
+        <property name="dialect">org.hibernate.dialect.MySQL5Dialect</property>
+        <!-- Echo the SQL to stdout -->
+        <property name="show_sql">true</property>
+        <property name="format_sql">true</property>
+        <property name="use_sql_comments">true</property>
+
+        <!-- Set the current session context -->
+        <property name="current_session_context_class">thread</property>
+        <!-- Drop and re-create or validate (as this) the database schema on startup -->
+        <property name="hbm2ddl.auto">update</property>
+        <property name="hibernate.generate_statistics">true</property>
+
+        <mapping class="entity.Course"/>
+        <mapping class="entity.Student"/>
+        <mapping class="entity.Teacher"/>
+        <mapping class="entity.Subscription"/>
+        <mapping class="entity.Purchaselist"/>
+        <mapping class="LinkedPurchaseList"/>
+
+    </session-factory>
+</hibernate-configuration>

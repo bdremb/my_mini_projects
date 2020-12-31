@@ -1,0 +1,1327 @@
+{
+  "stations" : {
+    "11" : [ "Савёловская", "Петровский парк", "ЦСКА", "Хорошёвская", "Шелепиха", "Деловой центр" ],
+    "11A" : [ "Каховская", "Варшавская", "Каширская" ],
+    "12" : [ "Битцевский парк", "Лесопарковая", "Улица Старокачаловская", "Улица Скобелевская", "Бульвар адмирала Ушакова", "Улица Горчакова", "Бунинская Аллея" ],
+    "14" : [ "Окружная", "Владыкино", "Ботанический Сад", "Ростокино", "Белокаменная", "Бульвар Рокоссовского", "Локомотив", "Измайлово", "Соколиная Гора", "Шоссе Энтузиастов", "Андроновка", "Нижегородская", "Новохохловская", "Угрешская", "Дубровка", "Автозаводская", "ЗИЛ", "Верхние Котлы", "Крымская", "Площадь Гагарина", "Лужники", "Кутузовская", "Деловой центр", "Шелепиха", "Хорошёво", "Зорге", "Панфиловская", "Стрешнево", "Балтийская", "Коптево", "Лихоборы" ],
+    "15" : [ "Лефортово", "Авиамоторная", "Нижегородская", "Стахановская", "Окская", "Юго-Восточная", "Косино", "Улица Дмитриевского", "Лухмановская", "Некрасовка" ],
+    "D1" : [ "Одинцово", "Баковка", "Сколково", "Немчиновка", "Сетунь", "Рабочий Посёлок", "Кунцево", "Славянский бульвар", "Фили", "Тестовская", "Беговая", "Белорусская", "Савёловская", "Тимирязевская", "Окружная", "Дегунино", "Бескудниково", "Лианозово", "Марк", "Новодачная", "Долгопрудная", "Водники", "Хлебниково", "Шереметьевская", "Лобня" ],
+    "D2" : [ "Нахабино", "Аникеевка", "Опалиха", "Красногорская", "Павшино", "Пенягино", "Волоколамская", "Трикотажная", "Тушино", "Стрешнево", "Красный Балтиец", "Гражданская", "Дмитровская", "Рижская", "Каланчёвская", "Курская", "Москва Товарная", "Калитники", "Новохохловская", "Текстильщики", "Кубанская", "Депо", "Перерва", "Курьяново", "Москворечье", "Царицыно", "Покровская", "Красный Строитель", "Битца", "Бутово", "Щербинка", "Остафьево", "Силикатная", "Подольск" ],
+    "1" : [ "Бульвар Рокоссовского", "Черкизовская", "Преображенская площадь", "Сокольники", "Красносельская", "Комсомольская", "Красные ворота", "Чистые пруды", "Лубянка", "Охотный ряд", "Библиотека имени Ленина", "Кропоткинская", "Парк Культуры", "Фрунзенская", "Спортивная", "Воробьевы горы", "Университет", "Проспект Вернадского", "Юго-Западная", "Тропарёво", "Румянцево", "Саларьево", "Филатов Луг", "Прокшино", "Ольховая", "Коммунарка" ],
+    "2" : [ "Ховрино", "Беломорская", "Речной вокзал", "Водный стадион", "Войковская", "Сокол", "Аэропорт", "Динамо", "Белорусская", "Маяковская", "Тверская", "Театральная", "Новокузнецкая", "Павелецкая", "Автозаводская", "Технопарк", "Коломенская", "Каширская", "Кантемировская", "Царицыно", "Орехово", "Домодедовская", "Красногвардейская", "Алма-Атинская" ],
+    "3" : [ "Пятницкое шоссе", "Митино", "Волоколамская", "Мякинино", "Строгино", "Крылатское", "Молодежная", "Кунцевская", "Славянский бульвар", "Парк Победы", "Киевская", "Смоленская", "Арбатская", "Площадь Революции", "Курская", "Бауманская", "Электрозаводская", "Семеновская", "Партизанская", "Измайловская", "Первомайская", "Щелковская" ],
+    "4" : [ "Александровский сад", "Арбатская", "Смоленская", "Киевская", "Студенческая", "Кутузовская", "Фили", "Багратионовская", "Филевский парк", "Пионерская", "Кунцевская", "Выставочная", "Международная" ],
+    "5" : [ "Киевская", "Парк Культуры", "Октябрьская", "Добрынинская", "Павелецкая", "Таганская", "Курская", "Комсомольская", "Проспект Мира", "Новослободская", "Белорусская", "Краснопресненская" ],
+    "6" : [ "Новоясеневская", "Ясенево", "Теплый стан", "Коньково", "Беляево", "Калужская", "Новые Черёмушки", "Профсоюзная", "Академическая", "Ленинский проспект", "Шаболовская", "Октябрьская", "Третьяковская", "Китай-город", "Тургеневская", "Сухаревская", "Проспект Мира", "Рижская", "Алексеевская", "ВДНХ", "Ботанический сад", "Свиблово", "Бабушкинская", "Медведково" ],
+    "7" : [ "Котельники", "Жулебино", "Лермонтовский проспект", "Выхино", "Рязанский проспект", "Кузьминки", "Текстильщики", "Волгоградский проспект", "Пролетарская", "Таганская", "Китай-город", "Кузнецкий мост", "Пушкинская", "Баррикадная", "Улица 1905 года", "Беговая", "Полежаевская", "Октябрьское Поле", "Щукинская", "Спартак", "Тушинская", "Сходненская", "Планерная" ],
+    "8" : [ "Новокосино", "Новогиреево", "Перово", "Шоссе Энтузиастов", "Авиамоторная", "Площадь Ильича", "Марксистская", "Третьяковская", "Деловой центр", "Парк Победы", "Минская", "Ломоносовский проспект", "Раменки", "Мичуринский проспект", "Озёрная", "Говорово", "Солнцево", "Боровское шоссе", "Новопеределкино", "Рассказовка" ],
+    "9" : [ "Бульвар Дмитрия Донского", "Аннино", "Улица академика Янгеля", "Пражская", "Южная", "Чертановская", "Севастопольская", "Нахимовский Проспект", "Нагорная", "Нагатинская", "Тульская", "Серпуховская", "Полянка", "Боровицкая", "Чеховская", "Цветной бульвар", "Менделеевская", "Савеловская", "Дмитровская", "Тимирязевская", "Петровско-Разумовская", "Владыкино", "Отрадное", "Бибирево", "Алтуфьево" ],
+    "10" : [ "Зябликово", "Шипиловская", "Борисово", "Марьино", "Братиславская", "Люблино", "Волжская", "Печатники", "Кожуховская", "Дубровка", "Крестьянская застава", "Римская", "Чкаловская", "Сретенский бульвар", "Трубная", "Достоевская", "Марьина роща", "Бутырская", "Фонвизинская", "Петровско-Разумовская", "Окружная", "Верхние Лихоборы", "Селигерская" ]
+  },
+  "lines" : [ {
+    "number" : "1",
+    "name" : "Сокольническая"
+  }, {
+    "number" : "2",
+    "name" : "Замоскворецкая"
+  }, {
+    "number" : "3",
+    "name" : "Арбатско-Покровская"
+  }, {
+    "number" : "4",
+    "name" : "Филевская"
+  }, {
+    "number" : "5",
+    "name" : "Кольцевая"
+  }, {
+    "number" : "6",
+    "name" : "Калужско-Рижская"
+  }, {
+    "number" : "7",
+    "name" : "Таганско-Краснопресненская"
+  }, {
+    "number" : "8",
+    "name" : "Калининско-Солнцевская"
+  }, {
+    "number" : "9",
+    "name" : "Серпуховско-Тимирязевская"
+  }, {
+    "number" : "10",
+    "name" : "Люблинско-Дмитровская"
+  }, {
+    "number" : "11",
+    "name" : "Большая"
+  }, {
+    "number" : "11A",
+    "name" : "Каховская"
+  }, {
+    "number" : "12",
+    "name" : "Бутовская"
+  }, {
+    "number" : "14",
+    "name" : "Центральное"
+  }, {
+    "number" : "15",
+    "name" : "Некрасовская"
+  }, {
+    "number" : "D1",
+    "name" : "МЦД-1"
+  }, {
+    "number" : "D2",
+    "name" : "МЦД-2"
+  } ],
+  "connections" : [ {
+    "connects" : [ {
+      "stationName" : "Бульвар Рокоссовского",
+      "lineNumber" : "14"
+    } ],
+    "stationName" : "Бульвар Рокоссовского",
+    "lineNumber" : "1"
+  }, {
+    "connects" : [ {
+      "stationName" : "Локомотив",
+      "lineNumber" : "14"
+    } ],
+    "stationName" : "Черкизовская",
+    "lineNumber" : "1"
+  }, {
+    "connects" : [ {
+      "stationName" : "Комсомольская",
+      "lineNumber" : "5"
+    }, {
+      "stationName" : "Каланчёвская",
+      "lineNumber" : "D2"
+    } ],
+    "stationName" : "Комсомольская",
+    "lineNumber" : "1"
+  }, {
+    "connects" : [ {
+      "stationName" : "Сретенский бульвар",
+      "lineNumber" : "10"
+    }, {
+      "stationName" : "Тургеневская",
+      "lineNumber" : "6"
+    } ],
+    "stationName" : "Чистые пруды",
+    "lineNumber" : "1"
+  }, {
+    "connects" : [ {
+      "stationName" : "Кузнецкий мост",
+      "lineNumber" : "7"
+    } ],
+    "stationName" : "Лубянка",
+    "lineNumber" : "1"
+  }, {
+    "connects" : [ {
+      "stationName" : "Площадь Революции",
+      "lineNumber" : "3"
+    }, {
+      "stationName" : "Театральная",
+      "lineNumber" : "2"
+    } ],
+    "stationName" : "Охотный ряд",
+    "lineNumber" : "1"
+  }, {
+    "connects" : [ {
+      "stationName" : "Боровицкая",
+      "lineNumber" : "9"
+    }, {
+      "stationName" : "Александровский сад",
+      "lineNumber" : "4"
+    }, {
+      "stationName" : "Арбатская",
+      "lineNumber" : "3"
+    } ],
+    "stationName" : "Библиотека имени Ленина",
+    "lineNumber" : "1"
+  }, {
+    "connects" : [ {
+      "stationName" : "Парк Культуры",
+      "lineNumber" : "5"
+    } ],
+    "stationName" : "Парк Культуры",
+    "lineNumber" : "1"
+  }, {
+    "connects" : [ {
+      "stationName" : "Лужники",
+      "lineNumber" : "14"
+    } ],
+    "stationName" : "Спортивная",
+    "lineNumber" : "1"
+  }, {
+    "connects" : [ {
+      "stationName" : "Балтийская",
+      "lineNumber" : "14"
+    }, {
+      "stationName" : "Стрешнево",
+      "lineNumber" : "D2"
+    } ],
+    "stationName" : "Войковская",
+    "lineNumber" : "2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Петровский парк",
+      "lineNumber" : "11"
+    } ],
+    "stationName" : "Динамо",
+    "lineNumber" : "2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Белорусская",
+      "lineNumber" : "5"
+    }, {
+      "stationName" : "Белорусская",
+      "lineNumber" : "D1"
+    } ],
+    "stationName" : "Белорусская",
+    "lineNumber" : "2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Чеховская",
+      "lineNumber" : "9"
+    }, {
+      "stationName" : "Пушкинская",
+      "lineNumber" : "7"
+    } ],
+    "stationName" : "Тверская",
+    "lineNumber" : "2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Площадь Революции",
+      "lineNumber" : "3"
+    }, {
+      "stationName" : "Охотный ряд",
+      "lineNumber" : "1"
+    } ],
+    "stationName" : "Театральная",
+    "lineNumber" : "2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Третьяковская",
+      "lineNumber" : "8"
+    }, {
+      "stationName" : "Третьяковская",
+      "lineNumber" : "6"
+    } ],
+    "stationName" : "Новокузнецкая",
+    "lineNumber" : "2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Павелецкая",
+      "lineNumber" : "5"
+    } ],
+    "stationName" : "Павелецкая",
+    "lineNumber" : "2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Автозаводская",
+      "lineNumber" : "14"
+    } ],
+    "stationName" : "Автозаводская",
+    "lineNumber" : "2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Каширская",
+      "lineNumber" : "11A"
+    } ],
+    "stationName" : "Каширская",
+    "lineNumber" : "2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Царицыно",
+      "lineNumber" : "D2"
+    } ],
+    "stationName" : "Царицыно",
+    "lineNumber" : "2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Зябликово",
+      "lineNumber" : "10"
+    } ],
+    "stationName" : "Красногвардейская",
+    "lineNumber" : "2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Волоколамская",
+      "lineNumber" : "D2"
+    } ],
+    "stationName" : "Волоколамская",
+    "lineNumber" : "3"
+  }, {
+    "connects" : [ {
+      "stationName" : "Кунцевская",
+      "lineNumber" : "4"
+    }, {
+      "stationName" : "Кунцево",
+      "lineNumber" : "D1"
+    } ],
+    "stationName" : "Кунцевская",
+    "lineNumber" : "3"
+  }, {
+    "connects" : [ {
+      "stationName" : "Славянский бульвар",
+      "lineNumber" : "D1"
+    } ],
+    "stationName" : "Славянский бульвар",
+    "lineNumber" : "3"
+  }, {
+    "connects" : [ {
+      "stationName" : "Парк Победы",
+      "lineNumber" : "8"
+    } ],
+    "stationName" : "Парк Победы",
+    "lineNumber" : "3"
+  }, {
+    "connects" : [ {
+      "stationName" : "Киевская",
+      "lineNumber" : "5"
+    }, {
+      "stationName" : "Киевская",
+      "lineNumber" : "4"
+    } ],
+    "stationName" : "Киевская",
+    "lineNumber" : "3"
+  }, {
+    "connects" : [ {
+      "stationName" : "Боровицкая",
+      "lineNumber" : "9"
+    }, {
+      "stationName" : "Александровский сад",
+      "lineNumber" : "4"
+    }, {
+      "stationName" : "Библиотека имени Ленина",
+      "lineNumber" : "1"
+    } ],
+    "stationName" : "Арбатская",
+    "lineNumber" : "3"
+  }, {
+    "connects" : [ {
+      "stationName" : "Театральная",
+      "lineNumber" : "2"
+    }, {
+      "stationName" : "Охотный ряд",
+      "lineNumber" : "1"
+    } ],
+    "stationName" : "Площадь Революции",
+    "lineNumber" : "3"
+  }, {
+    "connects" : [ {
+      "stationName" : "Чкаловская",
+      "lineNumber" : "10"
+    }, {
+      "stationName" : "Курская",
+      "lineNumber" : "5"
+    }, {
+      "stationName" : "Курская",
+      "lineNumber" : "D2"
+    } ],
+    "stationName" : "Курская",
+    "lineNumber" : "3"
+  }, {
+    "connects" : [ {
+      "stationName" : "Измайлово",
+      "lineNumber" : "14"
+    } ],
+    "stationName" : "Партизанская",
+    "lineNumber" : "3"
+  }, {
+    "connects" : [ {
+      "stationName" : "Боровицкая",
+      "lineNumber" : "9"
+    }, {
+      "stationName" : "Арбатская",
+      "lineNumber" : "3"
+    }, {
+      "stationName" : "Библиотека имени Ленина",
+      "lineNumber" : "1"
+    } ],
+    "stationName" : "Александровский сад",
+    "lineNumber" : "4"
+  }, {
+    "connects" : [ {
+      "stationName" : "Киевская",
+      "lineNumber" : "5"
+    }, {
+      "stationName" : "Киевская",
+      "lineNumber" : "3"
+    } ],
+    "stationName" : "Киевская",
+    "lineNumber" : "4"
+  }, {
+    "connects" : [ {
+      "stationName" : "Кутузовская",
+      "lineNumber" : "14"
+    } ],
+    "stationName" : "Кутузовская",
+    "lineNumber" : "4"
+  }, {
+    "connects" : [ {
+      "stationName" : "Фили",
+      "lineNumber" : "D1"
+    } ],
+    "stationName" : "Фили",
+    "lineNumber" : "4"
+  }, {
+    "connects" : [ {
+      "stationName" : "Кунцевская",
+      "lineNumber" : "3"
+    }, {
+      "stationName" : "Кунцево",
+      "lineNumber" : "D1"
+    } ],
+    "stationName" : "Кунцевская",
+    "lineNumber" : "4"
+  }, {
+    "connects" : [ {
+      "stationName" : "Деловой центр",
+      "lineNumber" : "11"
+    }, {
+      "stationName" : "Тестовская",
+      "lineNumber" : "D1"
+    } ],
+    "stationName" : "Выставочная",
+    "lineNumber" : "4"
+  }, {
+    "connects" : [ {
+      "stationName" : "Деловой центр",
+      "lineNumber" : "14"
+    }, {
+      "stationName" : "Тестовская",
+      "lineNumber" : "D1"
+    } ],
+    "stationName" : "Международная",
+    "lineNumber" : "4"
+  }, {
+    "connects" : [ {
+      "stationName" : "Киевская",
+      "lineNumber" : "4"
+    }, {
+      "stationName" : "Киевская",
+      "lineNumber" : "3"
+    } ],
+    "stationName" : "Киевская",
+    "lineNumber" : "5"
+  }, {
+    "connects" : [ {
+      "stationName" : "Парк Культуры",
+      "lineNumber" : "1"
+    } ],
+    "stationName" : "Парк Культуры",
+    "lineNumber" : "5"
+  }, {
+    "connects" : [ {
+      "stationName" : "Октябрьская",
+      "lineNumber" : "6"
+    } ],
+    "stationName" : "Октябрьская",
+    "lineNumber" : "5"
+  }, {
+    "connects" : [ {
+      "stationName" : "Серпуховская",
+      "lineNumber" : "9"
+    } ],
+    "stationName" : "Добрынинская",
+    "lineNumber" : "5"
+  }, {
+    "connects" : [ {
+      "stationName" : "Павелецкая",
+      "lineNumber" : "2"
+    } ],
+    "stationName" : "Павелецкая",
+    "lineNumber" : "5"
+  }, {
+    "connects" : [ {
+      "stationName" : "Марксистская",
+      "lineNumber" : "8"
+    }, {
+      "stationName" : "Таганская",
+      "lineNumber" : "7"
+    } ],
+    "stationName" : "Таганская",
+    "lineNumber" : "5"
+  }, {
+    "connects" : [ {
+      "stationName" : "Чкаловская",
+      "lineNumber" : "10"
+    }, {
+      "stationName" : "Курская",
+      "lineNumber" : "3"
+    }, {
+      "stationName" : "Курская",
+      "lineNumber" : "D2"
+    } ],
+    "stationName" : "Курская",
+    "lineNumber" : "5"
+  }, {
+    "connects" : [ {
+      "stationName" : "Комсомольская",
+      "lineNumber" : "1"
+    }, {
+      "stationName" : "Каланчёвская",
+      "lineNumber" : "D2"
+    } ],
+    "stationName" : "Комсомольская",
+    "lineNumber" : "5"
+  }, {
+    "connects" : [ {
+      "stationName" : "Проспект Мира",
+      "lineNumber" : "6"
+    } ],
+    "stationName" : "Проспект Мира",
+    "lineNumber" : "5"
+  }, {
+    "connects" : [ {
+      "stationName" : "Менделеевская",
+      "lineNumber" : "9"
+    } ],
+    "stationName" : "Новослободская",
+    "lineNumber" : "5"
+  }, {
+    "connects" : [ {
+      "stationName" : "Белорусская",
+      "lineNumber" : "2"
+    }, {
+      "stationName" : "Белорусская",
+      "lineNumber" : "D1"
+    } ],
+    "stationName" : "Белорусская",
+    "lineNumber" : "5"
+  }, {
+    "connects" : [ {
+      "stationName" : "Баррикадная",
+      "lineNumber" : "7"
+    } ],
+    "stationName" : "Краснопресненская",
+    "lineNumber" : "5"
+  }, {
+    "connects" : [ {
+      "stationName" : "Битцевский парк",
+      "lineNumber" : "12"
+    } ],
+    "stationName" : "Новоясеневская",
+    "lineNumber" : "6"
+  }, {
+    "connects" : [ {
+      "stationName" : "Площадь Гагарина",
+      "lineNumber" : "14"
+    } ],
+    "stationName" : "Ленинский проспект",
+    "lineNumber" : "6"
+  }, {
+    "connects" : [ {
+      "stationName" : "Октябрьская",
+      "lineNumber" : "5"
+    } ],
+    "stationName" : "Октябрьская",
+    "lineNumber" : "6"
+  }, {
+    "connects" : [ {
+      "stationName" : "Третьяковская",
+      "lineNumber" : "8"
+    }, {
+      "stationName" : "Новокузнецкая",
+      "lineNumber" : "2"
+    } ],
+    "stationName" : "Третьяковская",
+    "lineNumber" : "6"
+  }, {
+    "connects" : [ {
+      "stationName" : "Китай-город",
+      "lineNumber" : "7"
+    } ],
+    "stationName" : "Китай-город",
+    "lineNumber" : "6"
+  }, {
+    "connects" : [ {
+      "stationName" : "Сретенский бульвар",
+      "lineNumber" : "10"
+    }, {
+      "stationName" : "Чистые пруды",
+      "lineNumber" : "1"
+    } ],
+    "stationName" : "Тургеневская",
+    "lineNumber" : "6"
+  }, {
+    "connects" : [ {
+      "stationName" : "Проспект Мира",
+      "lineNumber" : "5"
+    } ],
+    "stationName" : "Проспект Мира",
+    "lineNumber" : "6"
+  }, {
+    "connects" : [ {
+      "stationName" : "Ботанический Сад",
+      "lineNumber" : "14"
+    } ],
+    "stationName" : "Ботанический сад",
+    "lineNumber" : "6"
+  }, {
+    "connects" : [ {
+      "stationName" : "Косино",
+      "lineNumber" : "15"
+    } ],
+    "stationName" : "Лермонтовский проспект",
+    "lineNumber" : "7"
+  }, {
+    "connects" : [ {
+      "stationName" : "Текстильщики",
+      "lineNumber" : "D2"
+    } ],
+    "stationName" : "Текстильщики",
+    "lineNumber" : "7"
+  }, {
+    "connects" : [ {
+      "stationName" : "Угрешская",
+      "lineNumber" : "14"
+    } ],
+    "stationName" : "Волгоградский проспект",
+    "lineNumber" : "7"
+  }, {
+    "connects" : [ {
+      "stationName" : "Крестьянская застава",
+      "lineNumber" : "10"
+    } ],
+    "stationName" : "Пролетарская",
+    "lineNumber" : "7"
+  }, {
+    "connects" : [ {
+      "stationName" : "Марксистская",
+      "lineNumber" : "8"
+    }, {
+      "stationName" : "Таганская",
+      "lineNumber" : "5"
+    } ],
+    "stationName" : "Таганская",
+    "lineNumber" : "7"
+  }, {
+    "connects" : [ {
+      "stationName" : "Китай-город",
+      "lineNumber" : "6"
+    } ],
+    "stationName" : "Китай-город",
+    "lineNumber" : "7"
+  }, {
+    "connects" : [ {
+      "stationName" : "Лубянка",
+      "lineNumber" : "1"
+    } ],
+    "stationName" : "Кузнецкий мост",
+    "lineNumber" : "7"
+  }, {
+    "connects" : [ {
+      "stationName" : "Чеховская",
+      "lineNumber" : "9"
+    }, {
+      "stationName" : "Тверская",
+      "lineNumber" : "2"
+    } ],
+    "stationName" : "Пушкинская",
+    "lineNumber" : "7"
+  }, {
+    "connects" : [ {
+      "stationName" : "Краснопресненская",
+      "lineNumber" : "5"
+    } ],
+    "stationName" : "Баррикадная",
+    "lineNumber" : "7"
+  }, {
+    "connects" : [ {
+      "stationName" : "Беговая",
+      "lineNumber" : "D1"
+    } ],
+    "stationName" : "Беговая",
+    "lineNumber" : "7"
+  }, {
+    "connects" : [ {
+      "stationName" : "Хорошёво",
+      "lineNumber" : "14"
+    }, {
+      "stationName" : "Хорошёвская",
+      "lineNumber" : "11"
+    } ],
+    "stationName" : "Полежаевская",
+    "lineNumber" : "7"
+  }, {
+    "connects" : [ {
+      "stationName" : "Зорге",
+      "lineNumber" : "14"
+    }, {
+      "stationName" : "Панфиловская",
+      "lineNumber" : "14"
+    } ],
+    "stationName" : "Октябрьское Поле",
+    "lineNumber" : "7"
+  }, {
+    "connects" : [ {
+      "stationName" : "Тушино",
+      "lineNumber" : "D2"
+    } ],
+    "stationName" : "Тушинская",
+    "lineNumber" : "7"
+  }, {
+    "connects" : [ {
+      "stationName" : "Шоссе Энтузиастов",
+      "lineNumber" : "14"
+    } ],
+    "stationName" : "Шоссе Энтузиастов",
+    "lineNumber" : "8"
+  }, {
+    "connects" : [ {
+      "stationName" : "Авиамоторная",
+      "lineNumber" : "15"
+    } ],
+    "stationName" : "Авиамоторная",
+    "lineNumber" : "8"
+  }, {
+    "connects" : [ {
+      "stationName" : "Римская",
+      "lineNumber" : "10"
+    }, {
+      "stationName" : "Москва Товарная",
+      "lineNumber" : "D2"
+    } ],
+    "stationName" : "Площадь Ильича",
+    "lineNumber" : "8"
+  }, {
+    "connects" : [ {
+      "stationName" : "Таганская",
+      "lineNumber" : "7"
+    }, {
+      "stationName" : "Таганская",
+      "lineNumber" : "5"
+    } ],
+    "stationName" : "Марксистская",
+    "lineNumber" : "8"
+  }, {
+    "connects" : [ {
+      "stationName" : "Третьяковская",
+      "lineNumber" : "6"
+    }, {
+      "stationName" : "Новокузнецкая",
+      "lineNumber" : "2"
+    } ],
+    "stationName" : "Третьяковская",
+    "lineNumber" : "8"
+  }, {
+    "connects" : [ {
+      "stationName" : "Парк Победы",
+      "lineNumber" : "3"
+    } ],
+    "stationName" : "Парк Победы",
+    "lineNumber" : "8"
+  }, {
+    "connects" : [ {
+      "stationName" : "Улица Старокачаловская",
+      "lineNumber" : "12"
+    } ],
+    "stationName" : "Бульвар Дмитрия Донского",
+    "lineNumber" : "9"
+  }, {
+    "connects" : [ {
+      "stationName" : "Добрынинская",
+      "lineNumber" : "5"
+    } ],
+    "stationName" : "Серпуховская",
+    "lineNumber" : "9"
+  }, {
+    "connects" : [ {
+      "stationName" : "Александровский сад",
+      "lineNumber" : "4"
+    }, {
+      "stationName" : "Арбатская",
+      "lineNumber" : "3"
+    }, {
+      "stationName" : "Библиотека имени Ленина",
+      "lineNumber" : "1"
+    } ],
+    "stationName" : "Боровицкая",
+    "lineNumber" : "9"
+  }, {
+    "connects" : [ {
+      "stationName" : "Пушкинская",
+      "lineNumber" : "7"
+    }, {
+      "stationName" : "Тверская",
+      "lineNumber" : "2"
+    } ],
+    "stationName" : "Чеховская",
+    "lineNumber" : "9"
+  }, {
+    "connects" : [ {
+      "stationName" : "Трубная",
+      "lineNumber" : "10"
+    } ],
+    "stationName" : "Цветной бульвар",
+    "lineNumber" : "9"
+  }, {
+    "connects" : [ {
+      "stationName" : "Новослободская",
+      "lineNumber" : "5"
+    } ],
+    "stationName" : "Менделеевская",
+    "lineNumber" : "9"
+  }, {
+    "connects" : [ {
+      "stationName" : "Савёловская",
+      "lineNumber" : "11"
+    }, {
+      "stationName" : "Савёловская",
+      "lineNumber" : "D1"
+    } ],
+    "stationName" : "Савеловская",
+    "lineNumber" : "9"
+  }, {
+    "connects" : [ {
+      "stationName" : "Дмитровская",
+      "lineNumber" : "D2"
+    } ],
+    "stationName" : "Дмитровская",
+    "lineNumber" : "9"
+  }, {
+    "connects" : [ {
+      "stationName" : "Тимирязевская",
+      "lineNumber" : "D1"
+    } ],
+    "stationName" : "Тимирязевская",
+    "lineNumber" : "9"
+  }, {
+    "connects" : [ {
+      "stationName" : "Петровско-Разумовская",
+      "lineNumber" : "10"
+    } ],
+    "stationName" : "Петровско-Разумовская",
+    "lineNumber" : "9"
+  }, {
+    "connects" : [ {
+      "stationName" : "Владыкино",
+      "lineNumber" : "14"
+    } ],
+    "stationName" : "Владыкино",
+    "lineNumber" : "9"
+  }, {
+    "connects" : [ {
+      "stationName" : "Красногвардейская",
+      "lineNumber" : "2"
+    } ],
+    "stationName" : "Зябликово",
+    "lineNumber" : "10"
+  }, {
+    "connects" : [ {
+      "stationName" : "Кубанская",
+      "lineNumber" : "D2"
+    } ],
+    "stationName" : "Печатники",
+    "lineNumber" : "10"
+  }, {
+    "connects" : [ {
+      "stationName" : "Дубровка",
+      "lineNumber" : "14"
+    } ],
+    "stationName" : "Дубровка",
+    "lineNumber" : "10"
+  }, {
+    "connects" : [ {
+      "stationName" : "Пролетарская",
+      "lineNumber" : "7"
+    } ],
+    "stationName" : "Крестьянская застава",
+    "lineNumber" : "10"
+  }, {
+    "connects" : [ {
+      "stationName" : "Площадь Ильича",
+      "lineNumber" : "8"
+    }, {
+      "stationName" : "Москва Товарная",
+      "lineNumber" : "D2"
+    } ],
+    "stationName" : "Римская",
+    "lineNumber" : "10"
+  }, {
+    "connects" : [ {
+      "stationName" : "Курская",
+      "lineNumber" : "5"
+    }, {
+      "stationName" : "Курская",
+      "lineNumber" : "3"
+    }, {
+      "stationName" : "Курская",
+      "lineNumber" : "D2"
+    } ],
+    "stationName" : "Чкаловская",
+    "lineNumber" : "10"
+  }, {
+    "connects" : [ {
+      "stationName" : "Тургеневская",
+      "lineNumber" : "6"
+    }, {
+      "stationName" : "Чистые пруды",
+      "lineNumber" : "1"
+    } ],
+    "stationName" : "Сретенский бульвар",
+    "lineNumber" : "10"
+  }, {
+    "connects" : [ {
+      "stationName" : "Цветной бульвар",
+      "lineNumber" : "9"
+    } ],
+    "stationName" : "Трубная",
+    "lineNumber" : "10"
+  }, {
+    "connects" : [ {
+      "stationName" : "Петровско-Разумовская",
+      "lineNumber" : "9"
+    } ],
+    "stationName" : "Петровско-Разумовская",
+    "lineNumber" : "10"
+  }, {
+    "connects" : [ {
+      "stationName" : "Окружная",
+      "lineNumber" : "14"
+    }, {
+      "stationName" : "Окружная",
+      "lineNumber" : "D1"
+    } ],
+    "stationName" : "Окружная",
+    "lineNumber" : "10"
+  }, {
+    "connects" : [ {
+      "stationName" : "Савеловская",
+      "lineNumber" : "9"
+    }, {
+      "stationName" : "Савёловская",
+      "lineNumber" : "D1"
+    } ],
+    "stationName" : "Савёловская",
+    "lineNumber" : "11"
+  }, {
+    "connects" : [ {
+      "stationName" : "Динамо",
+      "lineNumber" : "2"
+    } ],
+    "stationName" : "Петровский парк",
+    "lineNumber" : "11"
+  }, {
+    "connects" : [ {
+      "stationName" : "Хорошёво",
+      "lineNumber" : "14"
+    }, {
+      "stationName" : "Полежаевская",
+      "lineNumber" : "7"
+    } ],
+    "stationName" : "Хорошёвская",
+    "lineNumber" : "11"
+  }, {
+    "connects" : [ {
+      "stationName" : "Шелепиха",
+      "lineNumber" : "14"
+    }, {
+      "stationName" : "Тестовская",
+      "lineNumber" : "D1"
+    } ],
+    "stationName" : "Шелепиха",
+    "lineNumber" : "11"
+  }, {
+    "connects" : [ {
+      "stationName" : "Выставочная",
+      "lineNumber" : "4"
+    }, {
+      "stationName" : "Тестовская",
+      "lineNumber" : "D1"
+    } ],
+    "stationName" : "Деловой центр",
+    "lineNumber" : "11"
+  }, {
+    "connects" : [ {
+      "stationName" : "Каширская",
+      "lineNumber" : "2"
+    } ],
+    "stationName" : "Каширская",
+    "lineNumber" : "11A"
+  }, {
+    "connects" : [ {
+      "stationName" : "Новоясеневская",
+      "lineNumber" : "6"
+    } ],
+    "stationName" : "Битцевский парк",
+    "lineNumber" : "12"
+  }, {
+    "connects" : [ {
+      "stationName" : "Бульвар Дмитрия Донского",
+      "lineNumber" : "9"
+    } ],
+    "stationName" : "Улица Старокачаловская",
+    "lineNumber" : "12"
+  }, {
+    "connects" : [ {
+      "stationName" : "Окружная",
+      "lineNumber" : "10"
+    }, {
+      "stationName" : "Окружная",
+      "lineNumber" : "D1"
+    } ],
+    "stationName" : "Окружная",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Владыкино",
+      "lineNumber" : "9"
+    } ],
+    "stationName" : "Владыкино",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Ботанический сад",
+      "lineNumber" : "6"
+    } ],
+    "stationName" : "Ботанический Сад",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Бульвар Рокоссовского",
+      "lineNumber" : "1"
+    } ],
+    "stationName" : "Бульвар Рокоссовского",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Черкизовская",
+      "lineNumber" : "1"
+    } ],
+    "stationName" : "Локомотив",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Партизанская",
+      "lineNumber" : "3"
+    } ],
+    "stationName" : "Измайлово",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Шоссе Энтузиастов",
+      "lineNumber" : "8"
+    } ],
+    "stationName" : "Шоссе Энтузиастов",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Нижегородская",
+      "lineNumber" : "15"
+    } ],
+    "stationName" : "Нижегородская",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Новохохловская",
+      "lineNumber" : "D2"
+    } ],
+    "stationName" : "Новохохловская",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Волгоградский проспект",
+      "lineNumber" : "7"
+    } ],
+    "stationName" : "Угрешская",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Кожуховская",
+      "lineNumber" : "10"
+    }, {
+      "stationName" : "Дубровка",
+      "lineNumber" : "10"
+    } ],
+    "stationName" : "Дубровка",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Автозаводская",
+      "lineNumber" : "2"
+    } ],
+    "stationName" : "Автозаводская",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Ленинский проспект",
+      "lineNumber" : "6"
+    } ],
+    "stationName" : "Площадь Гагарина",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Спортивная",
+      "lineNumber" : "1"
+    } ],
+    "stationName" : "Лужники",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Кутузовская",
+      "lineNumber" : "4"
+    } ],
+    "stationName" : "Кутузовская",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Международная",
+      "lineNumber" : "4"
+    }, {
+      "stationName" : "Тестовская",
+      "lineNumber" : "D1"
+    } ],
+    "stationName" : "Деловой центр",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Шелепиха",
+      "lineNumber" : "11"
+    }, {
+      "stationName" : "Тестовская",
+      "lineNumber" : "D1"
+    } ],
+    "stationName" : "Шелепиха",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Хорошёвская",
+      "lineNumber" : "11"
+    }, {
+      "stationName" : "Полежаевская",
+      "lineNumber" : "7"
+    } ],
+    "stationName" : "Хорошёво",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Октябрьское Поле",
+      "lineNumber" : "7"
+    } ],
+    "stationName" : "Зорге",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Октябрьское Поле",
+      "lineNumber" : "7"
+    } ],
+    "stationName" : "Панфиловская",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Стрешнево",
+      "lineNumber" : "D2"
+    } ],
+    "stationName" : "Стрешнево",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Войковская",
+      "lineNumber" : "2"
+    } ],
+    "stationName" : "Балтийская",
+    "lineNumber" : "14"
+  }, {
+    "connects" : [ {
+      "stationName" : "Авиамоторная",
+      "lineNumber" : "8"
+    } ],
+    "stationName" : "Авиамоторная",
+    "lineNumber" : "15"
+  }, {
+    "connects" : [ {
+      "stationName" : "Нижегородская",
+      "lineNumber" : "14"
+    } ],
+    "stationName" : "Нижегородская",
+    "lineNumber" : "15"
+  }, {
+    "connects" : [ {
+      "stationName" : "Лермонтовский проспект",
+      "lineNumber" : "7"
+    } ],
+    "stationName" : "Косино",
+    "lineNumber" : "15"
+  }, {
+    "connects" : [ {
+      "stationName" : "Кунцевская",
+      "lineNumber" : "4"
+    }, {
+      "stationName" : "Кунцевская",
+      "lineNumber" : "3"
+    } ],
+    "stationName" : "Кунцево",
+    "lineNumber" : "D1"
+  }, {
+    "connects" : [ {
+      "stationName" : "Славянский бульвар",
+      "lineNumber" : "3"
+    } ],
+    "stationName" : "Славянский бульвар",
+    "lineNumber" : "D1"
+  }, {
+    "connects" : [ {
+      "stationName" : "Фили",
+      "lineNumber" : "4"
+    } ],
+    "stationName" : "Фили",
+    "lineNumber" : "D1"
+  }, {
+    "connects" : [ {
+      "stationName" : "Шелепиха",
+      "lineNumber" : "14"
+    }, {
+      "stationName" : "Деловой центр",
+      "lineNumber" : "14"
+    }, {
+      "stationName" : "Шелепиха",
+      "lineNumber" : "11"
+    }, {
+      "stationName" : "Деловой центр",
+      "lineNumber" : "11"
+    }, {
+      "stationName" : "Выставочная",
+      "lineNumber" : "4"
+    }, {
+      "stationName" : "Международная",
+      "lineNumber" : "4"
+    } ],
+    "stationName" : "Тестовская",
+    "lineNumber" : "D1"
+  }, {
+    "connects" : [ {
+      "stationName" : "Беговая",
+      "lineNumber" : "7"
+    } ],
+    "stationName" : "Беговая",
+    "lineNumber" : "D1"
+  }, {
+    "connects" : [ {
+      "stationName" : "Белорусская",
+      "lineNumber" : "5"
+    }, {
+      "stationName" : "Белорусская",
+      "lineNumber" : "2"
+    } ],
+    "stationName" : "Белорусская",
+    "lineNumber" : "D1"
+  }, {
+    "connects" : [ {
+      "stationName" : "Савёловская",
+      "lineNumber" : "11"
+    }, {
+      "stationName" : "Савеловская",
+      "lineNumber" : "9"
+    } ],
+    "stationName" : "Савёловская",
+    "lineNumber" : "D1"
+  }, {
+    "connects" : [ {
+      "stationName" : "Тимирязевская",
+      "lineNumber" : "9"
+    } ],
+    "stationName" : "Тимирязевская",
+    "lineNumber" : "D1"
+  }, {
+    "connects" : [ {
+      "stationName" : "Окружная",
+      "lineNumber" : "14"
+    }, {
+      "stationName" : "Окружная",
+      "lineNumber" : "10"
+    } ],
+    "stationName" : "Окружная",
+    "lineNumber" : "D1"
+  }, {
+    "connects" : [ {
+      "stationName" : "Волоколамская",
+      "lineNumber" : "3"
+    } ],
+    "stationName" : "Волоколамская",
+    "lineNumber" : "D2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Тушинская",
+      "lineNumber" : "7"
+    } ],
+    "stationName" : "Тушино",
+    "lineNumber" : "D2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Стрешнево",
+      "lineNumber" : "14"
+    }, {
+      "stationName" : "Войковская",
+      "lineNumber" : "2"
+    } ],
+    "stationName" : "Стрешнево",
+    "lineNumber" : "D2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Дмитровская",
+      "lineNumber" : "9"
+    } ],
+    "stationName" : "Дмитровская",
+    "lineNumber" : "D2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Комсомольская",
+      "lineNumber" : "5"
+    }, {
+      "stationName" : "Комсомольская",
+      "lineNumber" : "1"
+    } ],
+    "stationName" : "Каланчёвская",
+    "lineNumber" : "D2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Чкаловская",
+      "lineNumber" : "10"
+    }, {
+      "stationName" : "Курская",
+      "lineNumber" : "5"
+    }, {
+      "stationName" : "Курская",
+      "lineNumber" : "3"
+    } ],
+    "stationName" : "Курская",
+    "lineNumber" : "D2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Римская",
+      "lineNumber" : "10"
+    }, {
+      "stationName" : "Площадь Ильича",
+      "lineNumber" : "8"
+    } ],
+    "stationName" : "Москва Товарная",
+    "lineNumber" : "D2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Новохохловская",
+      "lineNumber" : "14"
+    } ],
+    "stationName" : "Новохохловская",
+    "lineNumber" : "D2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Текстильщики",
+      "lineNumber" : "7"
+    } ],
+    "stationName" : "Текстильщики",
+    "lineNumber" : "D2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Печатники",
+      "lineNumber" : "10"
+    } ],
+    "stationName" : "Кубанская",
+    "lineNumber" : "D2"
+  }, {
+    "connects" : [ {
+      "stationName" : "Царицыно",
+      "lineNumber" : "2"
+    } ],
+    "stationName" : "Царицыно",
+    "lineNumber" : "D2"
+  } ]
+}

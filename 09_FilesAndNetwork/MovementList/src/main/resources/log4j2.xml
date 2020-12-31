@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration status="info">
+    <appenders>
+
+        <File name="File1" fileName="logs/errors.log">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n"/>
+            <Filters>
+                <MarkerFilter marker="ERROR" onMatch="ACCEPT" onMismatch="DENY"/>
+            </Filters>
+        </File>
+
+        <File name="File2" fileName="logs/info.log">
+            <PatternLayout pattern="%d{yyyy-MM-dd HH:mm:ss} [%t] %-5level %logger{36} - %msg%n"/>
+            <Filters>
+                <MarkerFilter marker="INFO" onMatch="ACCEPT" onMismatch="DENY"/>
+            </Filters>
+        </File>
+    </appenders>
+
+    <loggers>
+        <Root level="warn">
+            <AppenderRef ref="File1"/>
+            <AppenderRef ref="File2"/>
+        </Root>
+    </loggers>
+
+</configuration>

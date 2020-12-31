@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" >
+<head>
+    <meta charset="UTF-8">
+    <title>To Do List</title>
+    <h1>Список дел (<span th:text="${count}">0</span>)</h1>
+
+    <div id="task-list">
+        <div th:each="task : ${tasks}">
+            <a style="color: blue" href="#" class="task-link" th:attr="data-id=${task.id}" th:text="${task.name}"></a>
+<!--            <a th:href="@{/tasks/{id}(id=${task.getId()})}" th:text="${task.getName()}">task</a>-->
+            <p th:text="${task.getId()}">VALUE</p>
+            <form th:method="GET" th:action="@{/tasks/{id}(id=${task.getId()})}">
+                <input style="color: orange" type="submit" value="Delete"/>
+
+            </form>
+        </div>
+    </div>
+
+
+
+    <br><br>
+    <a href="/edit" >EDIT</a>
+    <br><br>
+    <button class="delete-all" id="delete-all">DELETE ALL TASKS</button>
+    <br><br>
+
+
+</head>
+<body>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,165 @@
+* {
+    font-family: Arial;
+    color: darkblue;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+#task-form {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    background-color: lightblue;
+}
+
+
+
+#task-form form {
+    background-color: #082073;
+    border: 2px solid #333;
+    width: 300px;
+    padding: 20px;
+}
+
+#task-form h2 {
+    margin-top: 0;
+    color: #66f30f;
+
+}
+
+#task-form label {
+    display: block;
+    color: aqua;
+    font-family: "Arial Black";
+    font-style: italic;
+}
+
+
+
+#task-form-delete {
+    display: none;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    background-color: lightblue;
+}
+
+
+
+#task-form-delete form {
+    background-color: #082073;
+    border: 2px solid #333;
+    width: 300px;
+    padding: 20px;
+}
+
+#task-form-delete h2 {
+    margin-top: 0;
+    color: #66f30f;
+
+}
+
+#task-form-delete label {
+    display: block;
+    color: aqua;
+    font-family: "Arial Black";
+    font-style: italic;
+}
+
+
+/*update*/
+
+  #task-form-update {
+      display: none;
+      align-items: center;
+      justify-content: center;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 10;
+      background-color: lightblue;
+  }
+
+
+
+#task-form-update form {
+    background-color: #082073;
+    border: 2px solid #333;
+    width: 300px;
+    padding: 20px;
+}
+
+#task-form-update h2 {
+    margin-top: 0;
+    color: #66f30f;
+
+}
+
+#task-form-update label {
+    display: block;
+    color: aqua;
+    font-family: "Arial Black";
+    font-style: italic;
+}
+
+
+
+
+
+button {
+
+    background-color: darkgray;
+    font-size: 17px;
+    font-style: normal;
+    font-family: "Century Gothic";
+}
+
+.delete {
+    background-color: orange;
+    font-style: italic;
+}
+
+.update {
+    background-color: aquamarine;
+
+}
+
+#task-form form > * {
+    margin-bottom: 5px;
+}
+
+#task-form-delete form > * {
+    margin-bottom: 5px;
+}
+
+
+h4 {
+    margin-bottom: 0;
+}
+
+h1 {
+    font-family: "Times New Roman";
+    font-style: italic;
+    font-size: 55px;
+}
+
+.task-link {
+    font-family: "Times New Roman";
+    font-style: initial;
+    font-size: 24px;
+}
